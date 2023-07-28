@@ -4,4 +4,4 @@
 - [game_cli - my game but in cli](https://github.com/Hanuko33/game_cli)
 - [cpp_shell_packagekit - various scripts to make compiling easier](https://github.com/Hanuko33/cpp_shell_packagekit)
 ---
-
+Contact me on: piotr.a.danecki@gmail.com
