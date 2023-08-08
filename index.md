@@ -9,8 +9,8 @@
 
 ---
 ## NEWS:
-#### game_gui is updated to a0.2
-Now it has textures made 100% by me :-)
+### game_gui is updated to a0.2
+Now it has textures. They were made 100% by me =)
 
 ---
 ###### Contact me on: piotr.a.danecki@gmail.com
