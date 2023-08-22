@@ -10,12 +10,19 @@
 ---
 ## NEWS:
 
-### game_gui is update to a0.3
+### game_gui has been updated to a0.4
+Now, there is text on screen (epic!) and there is energy.
+This update kinda small cause I focused to make the text work, and to make it easy to use for myself!
+
+### cpp_shell_packagekit has been updated
+Now, there is a script to run memcheck software (valgrind)
+
+### game_gui has been updated to a0.3
 Now it contains dungeon, a bigger world can be saved (up to 9 numbers in one axis for example: 14, -124)
 So, yeah, there are more textures!
 Also I updated the readme.md so it looks better (imo) and so it contains screenshots
 
-### game_gui is updated to a0.2
+### game_gui has been updated to a0.2
 Now it has textures. They were made 100% by me =)
 
 ---
