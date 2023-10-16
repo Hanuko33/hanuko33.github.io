@@ -9,11 +9,10 @@
 + [hanuko33.github.io - the site that you are seeing right now!](https://github.com/Hanuko33/hanuko33.github.io)
 
 ---
-
-## !LOOKING FOR SOMEONE THAT COULD PORT GAME_GUI TO WINDOWS!
-
----
 ## NEWS:
+
+### [game_gui](https://github.com/Hanuko33/game_gui) has been updated to a0.5.1
+Finally, I did it myself, WINDOWS SUPPORT! Check it out! Also, this update contains a Qol (Quality of life) feature, which shows player X, and Y (coordinates).
 
 ### [game_gui](https://github.com/Hanuko33/game_gui) has been updated to a0.5
 A lot of things have chagned, and been added, so just check the [commit notes](https://github.com/Hanuko33/game_gui/commit/055d0c9c91a652e3b1ab095bbea0678a23f11cc1), [tag](https://github.com/Hanuko33/game_gui/releases/tag/a0.5), etc. to know more!
