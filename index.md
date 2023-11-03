@@ -7,9 +7,14 @@
 + [cpp_shell_packagekit - various scripts to make compiling easier](https://github.com/Hanuko33/cpp_shell_packagekit)
 + [game_gui - my game_cli but gui with INFINITE (kinda) generation](https://github.com/Hanuko33/game_gui)
 + [hanuko33.github.io - the site that you are seeing right now!](https://github.com/Hanuko33/hanuko33.github.io)
++ [game_gui_builder - tools to create releases of game_gui](https://github.com/Hanuko33/game_gui_builder)
 
 ---
 ## NEWS:
+
+### [game_gui_builder](https://github.com/Hanuko33/game_gui_builder) New project!
+
+### [game_gui](https://github.com/Hanuko33/game_gui) has been updated to a0.6
 
 ### [game_gui](https://github.com/Hanuko33/game_gui) has been updated to a0.5.1
 Finally, I did it myself, WINDOWS SUPPORT! Check it out! Also, this update contains a Qol (Quality of life) feature, which shows player X, and Y (coordinates).
