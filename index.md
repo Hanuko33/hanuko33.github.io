@@ -12,6 +12,8 @@
 ---
 ## NEWS:
 
+### [cpp_shell_packagekit](https://github.com/hanuko33/cpp_shell_packagekit) Updated!
+
 ### [game_gui_builder](https://github.com/Hanuko33/game_gui_builder) New project!
 
 ### [game_gui](https://github.com/Hanuko33/game_gui) has been updated to a0.6
