@@ -8,6 +8,9 @@
 + [game_gui - my game_cli but gui with INFINITE (kinda) generation](https://github.com/Hanuko33/game_gui)
 + [hanuko33.github.io - the site that you are seeing right now!](https://github.com/Hanuko33/hanuko33.github.io)
 + [game_gui_builder - tools to create releases of game_gui](https://github.com/Hanuko33/game_gui_builder)
++ [what_is_this - good question](https://github.com/Hanuko33/what_is_this)
++ [pointers_with_types - demo](https://github.com/Hanuko33/pointers_with_types)
+
 
 ---
 ## NEWS:
