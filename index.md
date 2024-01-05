@@ -1,5 +1,3 @@
-# [My Blog](https://github.com/Hanuko33/hanuko33.github.io)
-
 ## Here are my projects
 + [ctk_editor - notepad for linux basically, made 100% in python, ARCHIVED](https://github.com/Hanuko33/ctk_editor) 
 + [KaNaPi - Linux for x86_64 architecture, NOT UPDATED FOR LONG TIME](https://github.com/jdanecki/kanapi64)
