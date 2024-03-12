@@ -3,12 +3,17 @@
 + [hanuko33.github.io - the site that you are seeing right now!](https://github.com/Hanuko33/hanuko33.github.io)
 + [game_gui_builder - tools to create releases of game_gui](https://github.com/Hanuko33/game_gui_builder)
 + [what_is_this - good question](https://github.com/Hanuko33/what_is_this)
-+ [pointers_with_types - demo](https://github.com/Hanuko33/pointers_with_types)
++ [farming_for_pime - farming prototype for game_gui](https://github.com/Hanuko33/farming_for_pime)
++ [i3riced.vimrc - my vimrc](https://github.com/Hanuko33/i3riced.vimrc)
++ [i3ricedKittyConfig - my kitty config (fork of some other config)](https://github.com/Hanuko33/i3ricedKittyConfig)
++ [randombash - random bash scripts that I made](https://github.com/hanuko33/randombash)
 
-### No updates but pretty alive
+
+### No updates but still supported
++ [pointers_with_types - demo](https://github.com/Hanuko33/pointers_with_types)
 + [cxx_shell_packagekit - various scripts to make compiling easier](https://github.com/Hanuko33/cpp_shell_packagekit)
 
-### Pretty much dead projects
+### Dead projects
 + [ctk_editor - notepad for linux basically, made 100% in python, ARCHIVED](https://github.com/Hanuko33/ctk_editor) 
 + [KaNaPi - Linux for x86_64 architecture, NOT UPDATED FOR LONG TIME](https://github.com/jdanecki/kanapi64)
 + [game_cli - my game but in cli, ARCHIVED](https://github.com/Hanuko33/game_cli)
