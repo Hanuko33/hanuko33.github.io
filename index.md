@@ -7,7 +7,7 @@
 + [i3riced.vimrc - my vimrc](https://github.com/Hanuko33/i3riced.vimrc)
 + [i3ricedKittyConfig - my kitty config (fork of some other config)](https://github.com/Hanuko33/i3ricedKittyConfig)
 + [randombash - random bash scripts that I made](https://github.com/hanuko33/randombash)
-
++ [magci - encoding or smth](https://github.com/Hanuko33/magci)
 
 ### No updates but still supported
 + [pointers_with_types - demo](https://github.com/Hanuko33/pointers_with_types)
