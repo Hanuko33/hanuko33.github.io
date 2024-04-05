@@ -16,7 +16,7 @@
 + [i3riced.Xresources](https://github.com/Hanuko33/i3riced.Xresources)
 + [i3riced_bashrc](https://github.com/Hanuko33/i3riced_bashrc)
 + [i3riced_i3](https://github.com/Hanuko33/i3riced_i3)
-+ [i3riced_polybar](https://github.com/Hanko33/i3riced_polybar)
++ [i3riced_polybar](https://github.com/Hanuko33/i3riced_polybar)
 
 #### Thanks to cappucinno projects, they helped a lot!
 
