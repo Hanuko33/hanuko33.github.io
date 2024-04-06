@@ -17,6 +17,7 @@
 + [i3riced_bashrc](https://github.com/Hanuko33/i3riced_bashrc)
 + [i3riced_i3](https://github.com/Hanuko33/i3riced_i3)
 + [i3riced_polybar](https://github.com/Hanuko33/i3riced_polybar)
++ [i3riced.tmux.conf](https://github.com/Hanuko33/i3riced.tmux.conf)
 
 #### Thanks to cappucinno projects, they helped a lot!
 
