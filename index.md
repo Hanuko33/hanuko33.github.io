@@ -1,5 +1,6 @@
 ## Here are my projects that I'm working on:
-+ [game_gui - comes in many flavors, tui, sdl2 (classic), godot](https://github.com/Hanuko33/game_gui)
++ [game_gui / pime - comes in many flavors, tui, sdl2 (classic), godot](https://github.com/Hanuko33/game_gui)
++ [pime_python - game_gui recreation in python](https://github.com/Hanuko33/pime_python)
 + [KaNaPi - Linux for x86_64 architecture](https://github.com/jdanecki/kanapi64)
 + [cxx_shell_packagekit - not only c anymore! (scripts to help with programming)](https://github.com/Hanuko33/cxx_shell_packagekit)
 
