@@ -20,7 +20,7 @@
 + [i3riced_polybar](https://github.com/Hanuko33/i3riced_polybar)
 + [i3riced.tmux.conf](https://github.com/Hanuko33/i3riced.tmux.conf)
 
-#### Thanks to cappucinno projects, they helped a lot!
+##### Thanks to cappucinno projects, they helped a lot!
 
 ---
 ###### Contact me on: piotr.a.danecki@gmail.com
