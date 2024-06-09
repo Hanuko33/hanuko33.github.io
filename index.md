@@ -1,6 +1,6 @@
 ## Here are my projects that I'm working on:
-+ [game_gui / pime - comes in many flavors, tui, sdl2 (classic), godot](https://github.com/Hanuko33/game_gui)
-+ [pime_python - game_gui recreation in python](https://github.com/Hanuko33/pime_python)
++ [pime - comes in many flavors, tui, sdl2 (classic), godot](https://github.com/Hanuko33/pime)
++ [pime_python - pime recreation in python](https://github.com/Hanuko33/pime_python)
 + [KaNaPi - Linux for x86_64 architecture](https://github.com/jdanecki/kanapi64)
 + [cxx_shell_packagekit - not only c anymore! (scripts to help with programming)](https://github.com/Hanuko33/cxx_shell_packagekit)
 
@@ -9,7 +9,7 @@
 + [dungeon_game - "game" I made in a day](https://github.com/Hanuko33/dungeon_game)
 + [typingGame - also a "game" that I made in a day](https://github.com/Hanuko33/TypingGame)
 + [magci - coder & decoder](https://github.com/Hanuko33/magci)
-+ [game_gui_builder - gui build tool to create releases & build game_gui (written in python)](https://github.com/Hanuko33/game_gui_builder)
++ [pime_builder - gui build tool to create releases & build pime (written in python)](https://github.com/Hanuko33/pime_builder)
 
 ### Ricing
 + [i3riced.vimrc](https://github.com/Hanuko33/i3riced.vimrc)
