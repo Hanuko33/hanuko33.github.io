@@ -22,9 +22,9 @@
 + [i3riced.tmux.conf](https://github.com/Hanuko33/i3riced.tmux.conf)
 
 ### News:
-+ [PIME](https://github.com/Hanuko33/pime) project officially has been in the works for 1 YEAR now!
-    [anniversary video](https://youtu.be/nszC_cGksSA)
-    [gource video](https://youtu.be/TIDB-QorhNY)
++ [PIME](https://github.com/Hanuko33/pime) project officially has been in the works for 1 YEAR now!\
+    [anniversary video](https://youtu.be/nszC_cGksSA)\
+    [gource video](https://youtu.be/TIDB-QorhNY)\
     [windows / linux build](https://github.com/Hanuko33/pime/releases/tag/1.0)
 
 ##### Thanks to cappucinno projects, they helped a lot in the ricing!
